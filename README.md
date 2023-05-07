@@ -19,10 +19,7 @@ help me write beautiful github profile readme. My name is : SOSSOU DIDI ORLOG, m
     - Cloud : AWS, Digital Ocean, Heroku, Netlify, Vercel, Azure
   
 [![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=laravel)](https://laravel.com/)
-[![Vue](https://img.shields.io/badge/-Vue-000?&logo=vue.js)](https://vuejs.org/)
 [![Nuxt](https://img.shields.io/badge/-Nuxt-000?&logo=nuxt.js)](https://nuxtjs.org/)
-[![Django](https://img.shields.io/badge/-Django-000?&logo=django)](https://www.djangoproject.com/)
-[![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=fastapi)](https://fastapi.tiangolo.com/)
 [![Python](https://img.shields.io/badge/-Python-000?&logo=python)](https://www.python.org/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript)](https://www.javascript.com/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=typescript)](https://www.typescriptlang.org/)
@@ -51,19 +48,6 @@ help me write beautiful github profile readme. My name is : SOSSOU DIDI ORLOG, m
 ![trophy](https://github-profile-trophy.vercel.app/?username=KillingMaster&theme=onedark)
 
 ![GitHub metrics](https://metrics.lecoq.io/KillingMaster) 
-
-- Social Media
-
-    [![Twitter](https://img.shields.io/badge/-Twitter-000?&logo=twitter)](https://twitter.com/KillingMaster)
-    [![Facebook](https://img.shields.io/badge/-Facebook-000?&logo=facebook)](https://www.facebook.com/KillingMaster)
-    [![Instagram](https://img.shields.io/badge/-Instagram-000?&logo=instagram)](https://www.instagram.com/KillingMaster)
-    [![Linkedin](https://img.shields.io/badge/-Linkedin-000?&logo=linkedin)](https://www.linkedin.com/in/KillingMaster)
-    [![Telegram](https://img.shields.io/badge/-Telegram-000?&logo=telegram)](https://t.me/KillingMaster)
-    [![Whatsapp](https://img.shields.io/badge/-Whatsapp-000?&logo=whatsapp)](https://wa.me/22893492443)
-    [![Discord](https://img.shields.io/badge/-Discord-000?&logo=discord)](https://discord.com/users/KillingMaster)
-    [![Reddit](https://img.shields.io/badge/-Reddit-000?&logo=reddit)](https://www.reddit.com/user/KillingMaster)
-    [![Gitlab](https://img.shields.io/badge/-Gitlab-000?&logo=gitlab)](https://gitlab.com/KillingMaster)
-    [![HackerRank](https://img.shields.io/badge/-HackerRank-000?&logo=hackerrank)](https://www.hackerrank.com/KillingMaster)
 
 
 
