@@ -12,8 +12,8 @@ help me write beautiful github profile readme. My name is : SOSSOU DIDI ORLOG, m
 
 
 - My tech stack
-    - Frontend : Vue JS, Nuxt, React, React Native
-    - Backend : Larvel, Django, FastAPI
+    - Frontend : React, Flutter
+    - Backend : Larvel, Node
     - Database : MySQL, PostgreSQL, MongoDB
     - DevOps : Docker, Kubernetes, Gitlab CI/CD, Github Actions
     - Cloud : AWS, Digital Ocean, Heroku, Netlify, Vercel, Azure
