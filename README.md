@@ -38,7 +38,7 @@ help me write beautiful github profile readme. My name is : SOSSOU DIDI ORLOG, m
 [![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=github)]
 
 - My Github Stats
-![committers.top badge](https://user-badge.committers.top/togo/USERNAME.svg)](https://user-badge.committers.top/togo/USERNAME)
+![committers.top badge](https://user-badge.committers.top/togo/KillingMaster.svg)](https://user-badge.committers.top/togo/KillingMaster)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KillingMaster&layout=compact&theme=radical)
 
