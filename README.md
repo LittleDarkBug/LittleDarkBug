@@ -2,18 +2,14 @@
 
 <!--
 **KillingMaster/KillingMaster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-help me write beautiful github profile readme. My name is : SOSSOU DIDI ORLOG, my tech stack : Larvel , Vue JS, Nuxt, Django , FastAPI
 -->
 
 - I'm a Full Stack Developer | Freelancer
 - My name is : SOSSOU DIDI ORLOG
 
-- I'm a student at [Ecole Polytechnique de Lome]
-
-
 - My tech stack
     - Frontend : React, Flutter
-    - Backend : Larvel, Node
+    - Backend : Larvel, Node (Adonis JS)
     - Database : MySQL, PostgreSQL, MongoDB
     - DevOps : Docker, Kubernetes, Gitlab CI/CD, Github Actions
     - Cloud : AWS, Digital Ocean, Heroku, Netlify, Vercel, Azure
