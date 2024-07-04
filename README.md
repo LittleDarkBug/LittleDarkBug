@@ -9,7 +9,7 @@
 
 - My tech stack
     - Frontend : React, Flutter
-    - Backend : Laravel, Node (Adonis JS - Nest JS)
+    - Backend : Laravel, Node (Adonis JS - Nest JS), Python
     - Database : MySQL, PostgreSQL, MongoDB
     - DevOps : Docker, Kubernetes, Gitlab CI/CD, Github Actions
     - Cloud : AWS, Digital Ocean, Heroku, Netlify, Vercel, Azure
