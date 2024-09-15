@@ -35,7 +35,8 @@ New account of @KillingMaster  due to 2FA lockout
 [![Git](https://img.shields.io/badge/-Git-000?&logo=git)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=github)]
 
-- My Stats
+- My Stats:
+  
   ![committers.top badge](https://user-badge.committers.top/togo/KillingMaster.svg)](https://user-badge.committers.top/togo/KillingMaster)
   
   ![committers.top badge](https://user-badge.committers.top/togo/LittleDarkBug.svg)](https://user-badge.committers.top/togo/LittleDarkBug)
