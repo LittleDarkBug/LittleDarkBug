@@ -47,4 +47,3 @@ New account of @KillingMaster  due to 2FA lockout
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=LittleDarkBug&theme=onedark)
 
-![GitHub metrics](https://metrics.lecoq.io/LittleDarkBug)
