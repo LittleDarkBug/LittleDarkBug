@@ -35,15 +35,16 @@ New account of @KillingMaster  due to 2FA lockout
 [![Git](https://img.shields.io/badge/-Git-000?&logo=git)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=github)]
 
-- My Github Stats
+- My Stats
   ![committers.top badge](https://user-badge.committers.top/togo/KillingMaster.svg)](https://user-badge.committers.top/togo/KillingMaster)
+  ![committers.top badge](https://user-badge.committers.top/togo/LittleDarkBug.svg)](https://user-badge.committers.top/togo/LittleDarkBug)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KillingMaster&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LittleDarkBug&layout=compact&theme=radical)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KillingMaster&show_icons=true&theme=radical)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LittleDarkBug&show_icons=true&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KillingMaster&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LittleDarkBug&theme=radical)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=KillingMaster&theme=onedark)
+![trophy](https://github-profile-trophy.vercel.app/?username=LittleDarkBug&theme=onedark)
 
-![GitHub metrics](https://metrics.lecoq.io/KillingMaster)
+![GitHub metrics](https://metrics.lecoq.io/LittleDarkBug)
