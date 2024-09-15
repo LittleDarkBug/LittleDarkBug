@@ -4,7 +4,7 @@
 **KillingMaster/KillingMaster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-This account is now obsolete due to 2FA lockout, please check my new profile named @LittleDarkBug
+New account of @KillingMaster  due to 2FA lockout
 
 - I'm a Full Stack Developer | Freelancer
 - My name is : SOSSOU DIDI ORLOG
