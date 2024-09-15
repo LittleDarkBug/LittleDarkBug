@@ -4,16 +4,18 @@
 **KillingMaster/KillingMaster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+This account is now obsolete due to 2FA lockout, please check my new profile named @LittleDarkBug
+
 - I'm a Full Stack Developer | Freelancer
 - My name is : SOSSOU DIDI ORLOG
-
 - My tech stack
-    - Frontend : React, Flutter
-    - Backend : Laravel, Node (Adonis JS - Nest JS), Python
-    - Database : MySQL, PostgreSQL, MongoDB
-    - DevOps : Docker, Kubernetes, Gitlab CI/CD, Github Actions
-    - Cloud : AWS, Digital Ocean, Heroku, Netlify, Vercel, Azure
-  
+
+  - Frontend : React, Flutter
+  - Backend : Laravel, Node (Adonis JS - Nest JS), Python
+  - Database : MySQL, PostgreSQL, MongoDB
+  - DevOps : Docker, Kubernetes, Gitlab CI/CD, Github Actions
+  - Cloud : AWS, Digital Ocean, Heroku, Netlify, Vercel, Azure
+
 [![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=laravel)](https://laravel.com/)
 [![Nuxt](https://img.shields.io/badge/-Nuxt-000?&logo=nuxt.js)](https://nuxtjs.org/)
 [![Python](https://img.shields.io/badge/-Python-000?&logo=python)](https://www.python.org/)
@@ -34,7 +36,7 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=github)]
 
 - My Github Stats
-![committers.top badge](https://user-badge.committers.top/togo/KillingMaster.svg)](https://user-badge.committers.top/togo/KillingMaster)
+  ![committers.top badge](https://user-badge.committers.top/togo/KillingMaster.svg)](https://user-badge.committers.top/togo/KillingMaster)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KillingMaster&layout=compact&theme=radical)
 
@@ -44,7 +46,4 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=KillingMaster&theme=onedark)
 
-![GitHub metrics](https://metrics.lecoq.io/KillingMaster) 
-
-
-
+![GitHub metrics](https://metrics.lecoq.io/KillingMaster)
