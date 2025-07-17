@@ -6,13 +6,14 @@
 
 New account of @KillingMaster  due to 2FA lockout
 
-- I'm a Full Stack Developer | Freelancer
+- I'm an aspiring Data Scientist, a confirmed Full Stack Developer | Freelancer
 - My name is : SOSSOU DIDI ORLOG
 - My tech stack
 
   - Frontend : React, Flutter
   - Backend : Laravel, Node (Adonis JS - Nest JS), Python
   - Database : MySQL, PostgreSQL, MongoDB
+  - Data : Tensorflow, Pytorch, Hugginface, Keras, Langchain, Yolo,Scikit-learn, Statsmodels, pandas, scipy, seaborn, matplotlib, power bi...
   - DevOps : Docker, Kubernetes, Gitlab CI/CD, Github Actions
   - Cloud : AWS, Digital Ocean, Heroku, Netlify, Vercel, Azure
 
