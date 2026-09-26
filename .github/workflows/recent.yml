@@ -17,17 +17,34 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          gh api "users/${{ github.repository_owner }}/repos?sort=pushed&per_page=30" \
-            --jq '[.[] | select(.fork | not) | select(.name != "${{ github.event.repository.name }}") | select(.description != null)][:4]
-                  | .[] | "- [\(.name)](\(.html_url)) \(.description | gsub("[\\n\\r]"; " ") | .[0:110]) <sub>\(.pushed_at[0:10])</sub>"' > recent.md
+          gh api "users/${{ github.repository_owner }}/repos?sort=pushed&per_page=50" > repos.json
           python3 - <<'EOF'
-          import re
+          import json, re
+          owner = "${{ github.repository_owner }}"
           readme = open("README.md", encoding="utf-8").read()
-          block = open("recent.md", encoding="utf-8").read().strip()
+          before = readme.split("<!-- recent:start -->")[0]
+          # les dépôts déjà présentés plus haut ne sont pas répétés
+          shown = set(re.findall(rf"github\.com/{owner}/([\w.-]+)", before, flags=re.I))
+          shown.add("${{ github.event.repository.name }}")
+
+          def cut(text, n=100):
+              text = " ".join(text.split())
+              if len(text) <= n:
+                  return text
+              return text[:n].rsplit(" ", 1)[0].rstrip(",.;:") + "…"
+
+          lines = []
+          for r in json.load(open("repos.json", encoding="utf-8")):
+              if r["fork"] or not r["description"] or r["name"] in shown:
+                  continue
+              lines.append(f"- [{r['name']}]({r['html_url']}) {cut(r['description'])} <sub>{r['pushed_at'][:10]}</sub>")
+              if len(lines) == 4:
+                  break
+          block = "\n".join(lines)
           new = re.sub(r"(<!-- recent:start -->).*?(<!-- recent:end -->)", lambda m: f"{m.group(1)}\n{block}\n{m.group(2)}", readme, flags=re.S)
           open("README.md", "w", encoding="utf-8").write(new)
           EOF
-          rm recent.md
+          rm repos.json
       - name: Commit if something changed
         run: |
           git config user.name "github-actions[bot]"
