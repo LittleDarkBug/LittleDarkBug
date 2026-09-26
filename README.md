@@ -17,4 +17,9 @@ Looking for a permanent or fixed-term role in AI or AI-driven software engineeri
 - **Multi-view visual recognition** at The Keepers. +15 % identification accuracy, deployed on an embedded target.
 - **Draavis** at Bidiffy. Back-end lead on a SaaS serving 10,000+ requests a day, microservice latency down 71 %.
 
+**Recently pushed**
+
+<!-- recent:start -->
+<!-- recent:end -->
+
 [Portfolio](https://portfolio-ochre-two-67.vercel.app) · [LinkedIn](https://www.linkedin.com/in/didi-orlog-sossou-48036a201) · [didisossou@gmail.com](mailto:didisossou@gmail.com)
