@@ -20,10 +20,10 @@ Looking for a permanent or fixed-term role in AI or AI-driven software engineeri
 **Recently pushed**
 
 <!-- recent:start -->
-- [UrbanSafety](https://github.com/LittleDarkBug/UrbanSafety) Détection d'anomalies en vidéosurveillance : OpenCLIP ViT-L/14 + LoRA, BiLSTM en MIL, entraînement adversarial <sub>2026-09-25</sub>
-- [detecteur-ia-fr](https://github.com/LittleDarkBug/detecteur-ia-fr) Detecteur de texte genere en francais. Binoculars, Fast-DetectGPT, GLTR et perplexite, avec une calibration pu <sub>2026-08-05</sub>
-- [2024_togo_fiber_optics_prediction_challenge_submission_zindi](https://github.com/LittleDarkBug/2024_togo_fiber_optics_prediction_challenge_submission_zindi) Final submission for the togo fiber optics adoption prediction challenge on Zindi. 6th place solution <sub>2025-07-17</sub>
-- [tasty_bytes_traffic](https://github.com/LittleDarkBug/tasty_bytes_traffic) Ce projet utilise l'apprentissage automatique pour prédire quelles recettes généreront un trafic élevé lorsqu' <sub>2025-07-17</sub>
+- [tasty_bytes_traffic](https://github.com/LittleDarkBug/tasty_bytes_traffic) Ce projet utilise l'apprentissage automatique pour prédire quelles recettes généreront un trafic… <sub>2025-07-17</sub>
+- [failing_captors](https://github.com/LittleDarkBug/failing_captors) Ce projet, vise à détecter et gérer les capteurs de sol défaillants ou en maintenance. Il propose… <sub>2025-07-17</sub>
+- [emploi_scraper](https://github.com/LittleDarkBug/emploi_scraper) Emploi Scraper est un outil de scraping web développé avec Scrapy qui permet d'extraire… <sub>2025-07-17</sub>
+- [ewe_bible_com_scrapper](https://github.com/LittleDarkBug/ewe_bible_com_scrapper) Un outil pour extraire et télécharger le corpus biblique en langue éwé depuis bible.com, incluant… <sub>2025-07-17</sub>
 <!-- recent:end -->
 
 [Portfolio](https://portfolio-ochre-two-67.vercel.app) · [LinkedIn](https://www.linkedin.com/in/didi-orlog-sossou-48036a201) · [didisossou@gmail.com](mailto:didisossou@gmail.com)
