@@ -20,10 +20,10 @@ Looking for a permanent or fixed-term role in AI or AI-driven software engineeri
 **Recently pushed**
 
 <!-- recent:start -->
-- [tasty_bytes_traffic](https://github.com/LittleDarkBug/tasty_bytes_traffic) Ce projet utilise l'apprentissage automatique pour prédire quelles recettes généreront un trafic… <sub>2025-07-17</sub>
-- [failing_captors](https://github.com/LittleDarkBug/failing_captors) Ce projet, vise à détecter et gérer les capteurs de sol défaillants ou en maintenance. Il propose… <sub>2025-07-17</sub>
-- [emploi_scraper](https://github.com/LittleDarkBug/emploi_scraper) Emploi Scraper est un outil de scraping web développé avec Scrapy qui permet d'extraire… <sub>2025-07-17</sub>
-- [ewe_bible_com_scrapper](https://github.com/LittleDarkBug/ewe_bible_com_scrapper) Un outil pour extraire et télécharger le corpus biblique en langue éwé depuis bible.com, incluant… <sub>2025-07-17</sub>
+- [tasty_bytes_traffic](https://github.com/LittleDarkBug/tasty_bytes_traffic) Predicts which recipes will drive high traffic when featured on a cooking website's homepage… <sub>2025-07-17</sub>
+- [failing_captors](https://github.com/LittleDarkBug/failing_captors) Detects and manages faulty or under-maintenance soil sensors, combining a preventive redundancy… <sub>2025-07-17</sub>
+- [emploi_scraper](https://github.com/LittleDarkBug/emploi_scraper) Scrapy-based scraper that collects job offers from emploitogo.info and structures them with French… <sub>2025-07-17</sub>
+- [ewe_bible_com_scrapper](https://github.com/LittleDarkBug/ewe_bible_com_scrapper) Tool to extract and download the Bible corpus in the Ewe language from bible.com, including texts… <sub>2025-07-17</sub>
 <!-- recent:end -->
 
 [Portfolio](https://portfolio-ochre-two-67.vercel.app) · [LinkedIn](https://www.linkedin.com/in/didi-orlog-sossou-48036a201) · [didisossou@gmail.com](mailto:didisossou@gmail.com)
