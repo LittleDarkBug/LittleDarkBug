@@ -26,4 +26,4 @@ Looking for a permanent or fixed-term role in AI or AI-driven software engineeri
 - [ewe_bible_com_scrapper](https://github.com/LittleDarkBug/ewe_bible_com_scrapper) Tool to extract and download the Bible corpus in the Ewe language from bible.com, including texts… <sub>2025-07-17</sub>
 <!-- recent:end -->
 
-[Portfolio](https://portfolio-ochre-two-67.vercel.app) · [LinkedIn](https://www.linkedin.com/in/didi-orlog-sossou-48036a201) · [didisossou@gmail.com](mailto:didisossou@gmail.com)
+[Portfolio](https://orlogsd.fr) · [LinkedIn](https://www.linkedin.com/in/didi-orlog-sossou-48036a201) · [didisossou@gmail.com](mailto:didisossou@gmail.com)
