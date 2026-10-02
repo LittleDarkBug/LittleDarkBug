@@ -20,7 +20,7 @@ Looking for a permanent or fixed-term role in AI or AI-driven software engineeri
 **Recently pushed**
 
 <!-- recent:start -->
-- [epl_run](https://github.com/LittleDarkBug/epl_run) run away from epl <sub>2026-09-30</sub>
+- [epl_run](https://github.com/LittleDarkBug/epl_run) run away from epl <sub>2026-10-01</sub>
 - [tasty_bytes_traffic](https://github.com/LittleDarkBug/tasty_bytes_traffic) Predicts which recipes will drive high traffic when featured on a cooking website's homepage… <sub>2025-07-17</sub>
 - [failing_captors](https://github.com/LittleDarkBug/failing_captors) Detects and manages faulty or under-maintenance soil sensors, combining a preventive redundancy… <sub>2025-07-17</sub>
 - [emploi_scraper](https://github.com/LittleDarkBug/emploi_scraper) Scrapy-based scraper that collects job offers from emploitogo.info and structures them with French… <sub>2025-07-17</sub>
